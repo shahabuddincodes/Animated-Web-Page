@@ -6,7 +6,7 @@ function App() {
   const {scrollYProgress}=useScroll()
   return (
     <div>
-
+      
      <motion.div 
      style={{
       scaleX:scrollYProgress
